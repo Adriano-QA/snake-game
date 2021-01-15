@@ -1,0 +1,28 @@
+body {
+  height: 95vh;
+  width: 95vw;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  color: #2ffd14;
+  font-family: cursive;
+  font-weight: bold;
+}
+
+button {
+  font-size: 24px;
+  color:black;
+  font-weight: bold;
+  
+  width: 200px;
+  height: 100px;
+
+  margin-bottom: 16px;
+}
+
+canvas {
+  display: none;
+}
